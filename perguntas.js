@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Física',
+    'Como usar a fórmula Q=m⋅L e para que ela serve???',
+    'A fórmula Q=m⋅L é usada para calcular a quantidade de calor (Q) necessária para realizar uma mudança de estado físico de uma substância (como fusão ou vaporização), sem alterar sua temperatura.'
 )
 
 criaCartao(
-    'Programação',
+    'Matemática',
     'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'uma função é uma relação que associa cada elemento de um conjunto (chamado domínio) a um único elemento de outro conjunto (chamado contradomínio).'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz cachorro em english?',
+    'Cachorro em inglês é DOG'
 )
